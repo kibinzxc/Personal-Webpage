@@ -14,12 +14,3 @@ In compliance for ITEC50 LAB 1
 
 - HTML  
 - CSS (inline)
-
-## 🙌 Author
-
-**Kevin Daniel C. Almirante**  
-GitHub: [@kibinzxc](https://github.com/kibinzxc)
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE)
